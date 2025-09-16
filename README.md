@@ -1,3 +1,4 @@
-# Fundamentos-Cotil
+# Cotil
 
-# Fundamentos de Informática  Este repositório contém os exercícios e anotações da disciplina.
+# Fundamentos de Informática 
+ Este repositório contém os exercícios e anotações da disciplina.
